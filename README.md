@@ -7,7 +7,7 @@ modify history filename and output csv filename in plsqlhist.py, then
 python plsqlhist.py
 ```
 
-## TODO
+## TODO:
 sort sql statements by sequence
 
 ## Thanks:
